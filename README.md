@@ -1,10 +1,15 @@
-### Hi there 👋
+### 👋 Hi there,
+
+- 👀 I’m interested in Software Engineering, Tech, DevOps, Go, Kotlin and Linux...
+- 🌱 I’m currently learning AWS and Terraform
+- 👯 I’m looking to collaborate on automation scripts and tech projects
+- 📫 How to reach me: rikongha@gmail.com
 
 <!--
 **rikongha/rikongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👀 I’m interested in  Devops , GCP , AWS , PHP C# Python, Java and linux...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
