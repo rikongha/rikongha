@@ -1,7 +1,7 @@
 ### 👋 Hi there,
 
 - 👀 I’m interested in Software Engineering, Tech, DevOps, Go, Kotlin and Linux...
-- 🌱 I’m currently learning AWS and Terraform
+- 🌱 I’m currently learning SRE
 - 👯 I’m looking to collaborate on automation scripts and tech projects
 - 📫 How to reach me: rikongha@gmail.com
 
